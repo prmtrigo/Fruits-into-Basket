@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\bin\Debug\net7.0\Fruits-into-Basket.exe
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\bin\Debug\net7.0\Fruits-into-Basket.deps.json
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\bin\Debug\net7.0\Fruits-into-Basket.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\bin\Debug\net7.0\Fruits-into-Basket.dll
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\bin\Debug\net7.0\Fruits-into-Basket.pdb
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\obj\Debug\net7.0\Fruits-into-Basket.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\obj\Debug\net7.0\Fruits-into-Basket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\obj\Debug\net7.0\Fruits-into-Basket.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\obj\Debug\net7.0\Fruits-into-Basket.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\obj\Debug\net7.0\Fruits-into-Basket.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\obj\Debug\net7.0\Fruits-into-Basket.dll
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\obj\Debug\net7.0\refint\Fruits-into-Basket.dll
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\obj\Debug\net7.0\Fruits-into-Basket.pdb
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\obj\Debug\net7.0\Fruits-into-Basket.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Fruits-into-Basket\obj\Debug\net7.0\ref\Fruits-into-Basket.dll
